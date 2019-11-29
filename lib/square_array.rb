@@ -6,6 +6,7 @@ def square_array(array)
     counter += 1
     
     if counter == 3
-      return arrayl
+      return array
+    end
   end
 end
